@@ -1,0 +1,21 @@
+,published,description,images,post_url,external_links,like_url
+0,12 min,"Prototypes involve three separate but related accessors, all of which are named with some variation on the word prototype. This unfortunate overlap naturally leads to quite a bit of confusion...
+ #DEVCommunity",[],,[],
+1,54 min,"What if we, as developers, could set our web application theme based on the device settings and reduce the extra step to switch in our apps? (Spoiler alert: we totally can. Here's how.)
+ #DEVCommunity",[],,[],
+2,2 h,"In this post, we'll briefly look at object-oriented programming concepts in JavaScript like classes and objects.
+ #DEVCommunity",[],,[],
+3,3 h,"-Don't use text symbols for graphics -Do use verbs in aria-labels  -Do use button elements for show/hide password -Do show the correct virtual keyboard when you ask to enter a code
+ #DEVCommunity",[],,[],
+4,5 h,"I'm still a newbie developer, but have been enjoying my foray into open source so far. I hope my experience helps other new devs get into the open source world as well. 
+ #DEVCommunity",[],,[],
+5,"Hier, à 07:39",Hi recently rebooted my computer and reinstalled Pycharm and now no matter what I do the sdk is always invalid would love some help.,[],,[],
+6,"Hier, à 14:09","please explain the loop ""for i in range""",['https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/32b0DzrfCKe.png'],,[],
+7,"Hier, à 07:38",Plotly cheatsheet,"['https://scontent.ftun16-1.fna.fbcdn.net/v/t1.6435-9/cp0/e15/q65/c0.15.176.85a/p130x130/240928067_330328785449058_7088555044233344586_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=07e735&_nc_ohc=Q-cuzddNfGUAX8R9Ikw&_nc_ht=scontent.ftun16-1.fna&oh=b7e5f6c44a85872b0d8f8bea24426861&oe=615F59AE', 'https://scontent.ftun16-1.fna.fbcdn.net/v/t1.6435-9/cp0/e15/q65/c0.14.177.87a/p130x130/240867687_330328842115719_3478796797414175372_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=07e735&_nc_ohc=5A8JgUNJo4kAX_pRPSP&_nc_ht=scontent.ftun16-1.fna&oh=b1855d40bce178f8cfdc5963243f2fb0&oe=615C830B', 'https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/32b0DzrfCKe.png']",,[],
+8,14 h,"Hi all, I've completed my basic in python and my primary goal is to build a chat bot what procedure or roadmap should I follow for me to be able to achieve my task",['https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/32b0DzrfCKe.png'],,[],
+9,14 h,"Can someone please explain what the execution process is doing in this program, please? (Yes, I've read the docs) my_list = [10, 1, 8, 3, 5] total = 0
+ for i in range(len(my_list)):     total += my_list[i]
+ print(total) #output is 27 #end program
+ So, i is the elements in the range. But how does the program work out what the range is from len? OK, so len of my+list is 5, but how does the program use len to add up all the elements and output 27? Thanks!",['https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/32b0DzrfCKe.png'],,[],
+10,"5 septembre, 14:55",,['https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/32b0DzrfCKe.png'],,[],
+11,14 h,Python String Methods,"['https://scontent.ftun16-1.fna.fbcdn.net/v/t1.6435-9/cp0/e15/q65/s403x403/240887662_180497257519811_74761595749608561_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=110474&_nc_ohc=wrtYTWlmrJgAX8XuSLp&_nc_ht=scontent.ftun16-1.fna&oh=a66489ee9f5b940db3a31a3b41a922e7&oe=615BA274', 'https://static.xx.fbcdn.net/rsrc.php/v3/yA/r/32b0DzrfCKe.png']",,[],
